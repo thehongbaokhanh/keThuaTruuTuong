@@ -1,4 +1,4 @@
-public class flightingBird extends Bird {
+public class FlightingBird extends Bird {
     void ativity() {
         System.out.println("I am flying");
     } 
